@@ -31,3 +31,7 @@ Deactivate is called when State is removed from the tree, but it might be reinse
 ### dispose(): 
 Dispose is called when the State object is removed, which is permanent. This method is where you should unsubscribe and cancel all animations, streams, etc.
 
+Reference : 
+https://medium.com/flutter-community/flutter-lifecycle-for-android-and-ios-developers-8f532307e0c7
+https://stackoverflow.com/questions/41479255/life-cycle-in-flutter
+
