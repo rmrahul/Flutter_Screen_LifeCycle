@@ -35,3 +35,4 @@ Reference :
 https://medium.com/flutter-community/flutter-lifecycle-for-android-and-ios-developers-8f532307e0c7
 https://stackoverflow.com/questions/41479255/life-cycle-in-flutter
 
+https://medium.com/flutter-community/flutter-lifecycle-for-android-and-ios-developers-8f532307e0c7
